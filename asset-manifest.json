@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rox-librarian/static/css/main.46c9cb03.chunk.css",
+    "main.js": "/rox-librarian/static/js/main.16daab81.chunk.js",
+    "main.js.map": "/rox-librarian/static/js/main.16daab81.chunk.js.map",
+    "runtime-main.js": "/rox-librarian/static/js/runtime-main.08da946d.js",
+    "runtime-main.js.map": "/rox-librarian/static/js/runtime-main.08da946d.js.map",
+    "static/js/2.c78763ad.chunk.js": "/rox-librarian/static/js/2.c78763ad.chunk.js",
+    "static/js/2.c78763ad.chunk.js.map": "/rox-librarian/static/js/2.c78763ad.chunk.js.map",
+    "index.html": "/rox-librarian/index.html",
+    "static/css/main.46c9cb03.chunk.css.map": "/rox-librarian/static/css/main.46c9cb03.chunk.css.map",
+    "static/js/2.c78763ad.chunk.js.LICENSE.txt": "/rox-librarian/static/js/2.c78763ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08da946d.js",
+    "static/js/2.c78763ad.chunk.js",
+    "static/css/main.46c9cb03.chunk.css",
+    "static/js/main.16daab81.chunk.js"
+  ]
+}
