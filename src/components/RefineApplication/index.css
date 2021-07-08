@@ -1,0 +1,62 @@
+.RefineApplication {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.RefineApplication .row {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.RefineApplication .row .col {
+  padding: 20px;
+}
+
+.refine-form {
+  margin-bottom: 20px;
+}
+
+.refine-form .input-row {
+  margin-bottom: 10px;
+}
+
+.refine-form label {
+  font-weight: bold;
+  width: 100px;
+  display: inline-block;
+}
+
+.refine-form input {
+  font-size: 20px;
+  width: 50px;
+  height: 24px;
+}
+
+.refine-form button {
+  font-size: 14px;
+  height: 24px;
+}
+
+.refine-counter {
+  margin-bottom: 20px;
+}
+
+.refine-history-table {
+  /* max-height: 50vh; */
+  overflow-y: scroll;
+}
+
+.refine-history-table::-webkit-scrollbar {
+  display: none;
+}
+
+
+.refine-history-table table, th, td {
+  border: 1px solid #777;
+  border-collapse: collapse;
+}
+
+.refine-history-table th, td {
+  padding: 2px 15px;
+}
